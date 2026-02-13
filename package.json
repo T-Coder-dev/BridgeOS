@@ -1,0 +1,12 @@
+{
+  "name": "bridgeos",
+  "version": "1.0.0",
+  "description": "BridgeOS — Kanban board for managing Claude Code agents in tmux",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
