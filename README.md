@@ -31,7 +31,7 @@ You can customize the server behavior using environment variables:
 | `HOST` | `localhost` | Bind address (0.0.0.0 for network access) |
 Example with custom port:
 ```bash
-PORT=3000 npm start
+PORT=4200 npm start
 ```
 ## Remote Access via Tailscale
 You can access **BridgeOS** from your phone (or any device) by using Tailscale.
